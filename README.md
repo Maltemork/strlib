@@ -6,7 +6,7 @@ This is the repo for Javascript string functions converted to C.
 
 ### Clone the repo
 
-Open a terminal, navigate to a place where you want the project to be saved.
+Open a terminal, navigate to a folder where you want the project to be saved.
 
 ```
 git clone https://github.com/Maltemork/strlib
